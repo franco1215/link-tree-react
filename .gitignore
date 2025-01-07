@@ -1,0 +1,7 @@
+node_modules
+
+.next/cache/webpack/client-development-fallback/
+
+.next/cache/webpack/client-development/
+
+.next/

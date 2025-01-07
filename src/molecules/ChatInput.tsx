@@ -34,7 +34,7 @@ export function ChatInput({ onSend, disabled }: ChatInputProps) {
         disabled={isButtonDisabled || disabled}
         className={`absolute right-0 top-1/2 -translate-y-1/2 w-12 h-12 rounded-full flex items-center justify-center text-white transition-colors ${
           isButtonDisabled || disabled
-            ? 'bg-[#9CA3AF] cursor-not-allowed opacity-50' 
+            ? 'bg-[#4F46E5] cursor-not-allowed opacity-50' 
             : 'bg-[#4F46E5] hover:bg-[#4338CA]'
         }`}
       >
